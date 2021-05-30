@@ -1,0 +1,4 @@
+server:
+  host: akka://antivirus-service@127.0.0.1
+  port: 8081
+  actor: user/ScannerManager
